@@ -6,6 +6,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-Glassmorphism-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+<img width="1897" height="945" alt="Screenshot 2026-05-04 010713" src="https://github.com/user-attachments/assets/bf93fdde-dd4d-4681-a1da-473184b7250f" />
+
+
 A modern, robust, and fully responsive **Airline Management System** built for **Nexus Airlines**. It provides a premium user experience with a dual-role interface (Admin & Passenger), handling everything from dynamic pricing to interactive seat selection.
 
 ---
